@@ -63,4 +63,11 @@
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x170C84E3b1D282f9628229836086716141995200.png"
   }
-]
+{
+  "name": "GROK 4",
+  "symbol": "GROK",
+  "address": "0x8802E09F72fc5AC1d67661280A802C89b91cB076",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/sunlin1211/token-list/main/lists/images/0x8802e09f72fc5ac1d67661280a802c89b91cb076.png"
+}
